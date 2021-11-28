@@ -26,6 +26,7 @@ FFTW = "1.4.5"
 FourierTools = "0.2.4"
 HDF5 = "0.15.6"
 IndexFunArrays = "0.2.3"
+MicroscopyTools = "0.1"
 Parameters = "0.12.3"
 ProgressMeter = "1.7.1"
 
